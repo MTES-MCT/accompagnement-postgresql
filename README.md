@@ -1,9 +1,9 @@
 # pgAdmin Server : gestion des objets pour PostgreSQL
 
-Bienvenue dans la documentation pour pgAdmin Serveur. Cet outil, proposé dans l'offre Eole en mode web, est l'un des principaux outils Open Source pour PostgreSQL. 
-Au travers de ces interfaces graphiques, il vous simplifie la création, la maintenance et l'utilisation des objets de votre base de données.
+Bienvenue dans la documentation pour pgAdmin Serveur. Cet outil, proposé dans l'offre Eole en mode serveur, est l'un des principaux outils Open Source pour PostgreSQL. 
+Au travers de ses interfaces graphiques, il vous simplifie la création, la maintenance et l'utilisation des objets de votre base de données.
  
- En mode serveur, pgAdmin est une application web qui vous permet d'accéder à votre serveur Eole PostgreSQL y compris via le VPN et vous dispense de multiples installations monopostes pour les différents utilisateurs de PostgreSQL en agissant, par utilisateur, comme un trousseau de connexions vers vos bases de données.
+En mode serveur, pgAdmin est une application web qui vous permet d'accéder à votre serveur Eole PostgreSQL y compris via le VPN et vous dispense de multiples installations monopostes pour les différents utilisateurs de PostgreSQL en agissant, par utilisateur, comme un trousseau de connexions vers vos bases de données.
  
  ## Environnement
 
