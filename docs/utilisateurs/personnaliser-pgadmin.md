@@ -4,12 +4,13 @@ Vous pouvez Personnaliserl'interface de pgAdmin en utilisant les options présen
 Parmi toutes les options disponibles, quelques unes nous paraissent particulièrement intéressantes.
 
 ### Le noeud Divers
+---
+
 ![preference-divers](./img/preferences-divers.png)
 
 Vous pouvez utiliser la liste déroulante pour sélectionner la langue d'affichage de pgAdmin. La prise en compte
 s'effectue au redémarrage de l'application.
 
----
 
 ### Le noeud Stockage
 
