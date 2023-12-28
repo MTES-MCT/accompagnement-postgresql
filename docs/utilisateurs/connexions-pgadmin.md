@@ -1,9 +1,9 @@
 ## Ma première connexion
-L'application pgAdmin Server vous est fournie avec votre serveur Eole PostgreSQL. Elle est accessible depuis un navigateur à l'adresse
+L'application pgAdmin Server vous est fournie avec votre serveur Eole PostgreSQL, en complément à votre base de données. Elle est accessible depuis un navigateur à l'adresse
 **http://ip-de-mon-serveur/pgadmin4** et nécessite un 1er compte de connexion.
 Ce 1er compte de connexion vous sera fourni par votre service support; il se présente sous la forme **pgadmin@domaine-du-serveur**.
 
-![acceuil](file://img/acceuil.png "Ecran d'acceuil")
+![acceuil](/img/acceuil.png)
 
 Ce compte doit être utilisé comme compte de connexion provisoire, le temps pour vous de déclarer votre propre adresse de messagerie.
 Il est conseillé de supprimer ce compte provisoire à l'issue.
