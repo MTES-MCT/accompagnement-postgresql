@@ -26,7 +26,7 @@ Vous pouvez également préciser quel rôle vous souhaitez associer à ce compte
 Le rôle *Administrator* autorise le compte de connexion associé :
 * à créer de nouveau compte de connexion à pgAdmin
 * à activer/désactiver un compte existant en basculant le bouton **Actif***
-* à déverrouiller un compte qui aurait été verrouillé suite à 2 tentatives de connexion infructueuse de l'utilisateur
+* à déverrouiller un compte qui aurait été verrouillé suite à 2 tentatives de connexions infructueuses de l'utilisateur
 
 
 **Rappel** : à l'issue de la création de votre compte de connexion, il est conseillé de supprimer le compte provisoire fourni par le service support.
