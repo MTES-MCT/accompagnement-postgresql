@@ -13,7 +13,6 @@ s'effectue au redémarrage de l'application.
 
 
 ### Le noeud Stockage
-
 ---
 
 pgAdmin Server vous propose un espace de stockage sur le serveur (cf xxxxx) , accessible en téléversement (dépôt de fichiers)
@@ -23,9 +22,9 @@ ou en téléchargement (récupération de fichiers).
 
 Vous pouvez définir la taille maximale (en Mo) des fichiers à téléverser dans cet espace.
 
----
 
 ### Le noeud Editeur de requête
+---
 L'option **Grille de résultats** vous permet de spécifier vos préférences de formatage pour le tableau de résultats
 
 ![preference-editeur-requete](./img/preferences-editeur-requetes.png)
@@ -41,7 +40,7 @@ En optant pour *Nom de la colonne*, vous verrez l'intégralité de vos colonnes 
 
 ![preference-editeur-requete-exemple2](./img/preferences-editeur-requetes-exemple2.png)
 
----
+
 
 L'option **Sortie CSV/TXT** vous permet de choisir le formattage du fichier d'export au format texte des résultats d'une requête
 
