@@ -38,6 +38,7 @@ Exemple de résultat en sortie:
 ![preference-editeur-requete-exemple1](./img/preferences-editeur-requetes-exemple1.png)
 
 
+
 En optant pour *Nom de la colonne*, vous verrez l'intégralité de vos colonnes dans le tableau résultant.
 
 
