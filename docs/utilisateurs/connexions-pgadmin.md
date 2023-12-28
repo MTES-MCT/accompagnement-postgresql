@@ -6,7 +6,7 @@ Ce 1er compte de connexion vous sera fourni par votre service support; il se pr�
 ![acceuil](./img/acceuil.png)
 
 Ce compte doit être utilisé comme compte de connexion provisoire, le temps pour vous de déclarer votre propre adresse de messagerie.
-\_Il est conseillé de supprimer ce compte provisoire à l'issue.\_
+**Il est conseillé de supprimer ce compte provisoire à l'issue.**
 
 ## Créer un nouveau compte de connexion
 Une fois connecté, outre le menu explicite **Modifier le mot de passe**, l’administrateur dispose d’un menu **Utilisateurs** permettant de déclarer de nouveaux rôles de connexion.
