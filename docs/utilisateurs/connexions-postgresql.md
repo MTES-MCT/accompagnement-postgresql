@@ -16,7 +16,7 @@ informations nécessaires.
 Dans l'onglet **Général**, vous renseignerez le champ *Nom* pour identifier la connexion pour le serveur. C'est ce libellé qui sera affiché dans 
 l'explorateur d'objets de pgAdmin.
 
-![general-new_connexion](file://img/general-new-connexion.png)
+![general-new_connexion](./img/general-new-connexion.png)
 
 Si *Connecter maintenant ?* est coché (c'est la valeur par défaut), pgAdmin tentera de se connecter à la base de données de votre serveur lorsque vous fermerez cette boîte de dialogue.
 
@@ -27,7 +27,7 @@ cette déclaration partagée de connexion ne pourront pas supprimer cette connex
 ---
 C'est réellement dans l'onglet **Connexion** que l'on définit les paramètres nécessaires à une connexion vers une base pour un rôle de connexion PostgreSQL donné.
 
-![connexion-new_connexion](file://img/connexion-new-connexion.png)
+![connexion-new_connexion](./img/connexion-new-connexion.png)
 
 Le champ *Nom d'hôte* permet de spécifier l'adresse IP du serveur qui héberge les bases de données que vous souhaitez joindre.
 Si votre connexion a pour objectif de vous connecter à une base de données hébergée sur le même serveur que celui sur lequel pgAdmin est installé,
