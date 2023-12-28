@@ -52,7 +52,7 @@ Exemple de résultat en sortie:
 
 
 
-L'option **Sortie CSV/TXT** vous permet de choisir le formattage du fichier d'export au format texte des résultats d'une requête
+L'option **Sortie CSV/TXT** vous permet de choisir le formatage du fichier d'export au format texte des résultats d'une requête
 
 
 ![preference-editeur-requete-sortie](./img/preferences-editeur-requetes-sortie.png)
