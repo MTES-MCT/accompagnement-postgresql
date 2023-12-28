@@ -5,3 +5,4 @@ A chacune de vos connexions à pgAdmin, vous retrouverez les connexions mémoris
 
 ### Créer une connexion
 Apès vous être connecté à pgAdmin, sur le panneau de droite de l'application, vous disposez d'un menu de création d'une connexion vers une base de données.
+
