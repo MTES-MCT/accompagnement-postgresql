@@ -3,7 +3,7 @@ L'application pgAdmin Server vous est fournie avec votre serveur Eole PostgreSQL
 **http://ip-de-mon-serveur/pgadmin4** et nécessite un 1er compte de connexion.
 Ce 1er compte de connexion vous sera fourni par votre service support; il se présente sous la forme **pgadmin@domaine-du-serveur**.
 
-![acceuil](/img/acceuil.png)
+![acceuil](./img/acceuil.png)
 
 Ce compte doit être utilisé comme compte de connexion provisoire, le temps pour vous de déclarer votre propre adresse de messagerie.
 Il est conseillé de supprimer ce compte provisoire à l'issue.
@@ -11,12 +11,12 @@ Il est conseillé de supprimer ce compte provisoire à l'issue.
 ## Créer un nouveau compte de connexion
 Une fois connecté, outre le menu explicite **Modifier le mot de passe**, l’administrateur dispose d’un menu **Utilisateurs** permettant de déclarer de nouveaux rôles de connexion.
 
-![users](file://img/users.png)
+![users](./img/users.png)
 
 Un compte de connexion pgAdmin est une adresse de messagerie et un mot de passe comportant au moins 6 caractères. Pour ajouter un nouvel
 utilisateur à pgAdmin, cliquez sur le bouton + situé en haut et à droite.
 
-![users](file://img/add-users.png)
+![users](./img/add-users.png)
 
 Vous pouvez alors saisir l'adresse de messagerie du nouveau compte de connexion à pgAdmin, ainsi que le mot de passe associé.
 Vous pouvez également préciser quel rôle vous souhaitez associer à ce compte:
