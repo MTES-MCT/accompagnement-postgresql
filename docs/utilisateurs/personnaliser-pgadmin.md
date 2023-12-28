@@ -1,5 +1,5 @@
 ## Personnaliser l'interface de pgAdmin
-Vous pouvez Personnaliserl'interface de pgAdmin en utilisant les options présentes dans la boîte de dialogue
+Vous pouvez personnaliser l'interface de pgAdmin en utilisant les options présentes dans la boîte de dialogue
 *Préférences* disponible dans le menu *Fichier*.
 Parmi toutes les options disponibles, quelques unes nous paraissent particulièrement intéressantes.
 
