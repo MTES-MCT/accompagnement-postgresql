@@ -27,18 +27,24 @@ Vous pouvez définir la taille maximale (en Mo) des fichiers à téléverser dan
 ---
 L'option **Grille de résultats** vous permet de spécifier vos préférences de formatage pour le tableau de résultats
 
-![preference-editeur-requete](./img/preferences-editeur-requetes.png)
+![preference-editeur-requete-resultat1](./img/preferences-editeur-requetes-resultat1.png)
 
 Par défaut, la valeur est à *Données de la colonne*, ce qui signifie que les colonnes seront dimensionnées pour présenter toutes leurs valeurs. Si votre requête
 comprend un champ géométrique parmi les premieres colonnes du tableau résultant, il est probable que vous ne puissiez voir les autres colonnes sans 
 utiliser l'ascenseur horizontal.
 
-Exemple: 
+Exemple de résultat en sortie: 
 
 ![preference-editeur-requete-exemple1](./img/preferences-editeur-requetes-exemple1.png)
 
 
 En optant pour *Nom de la colonne*, vous verrez l'intégralité de vos colonnes dans le tableau résultant.
+
+
+![preference-editeur-requete-resultat2](./img/preferences-editeur-requetes-resultat2.png)
+
+
+Exemple de résultat en sortie:
 
 
 ![preference-editeur-requete-exemple2](./img/preferences-editeur-requetes-exemple2.png)
@@ -47,7 +53,9 @@ En optant pour *Nom de la colonne*, vous verrez l'intégralité de vos colonnes 
 
 L'option **Sortie CSV/TXT** vous permet de choisir le formattage du fichier d'export au format texte des résultats d'une requête
 
-![preference-editeur-requete-sortie](./img/preferences-editeur-sortie.png)
+
+![preference-editeur-requete-sortie](./img/preferences-editeur-requetes-sortie.png)
+
 
 * Le champ *Caractère délimiteur* précise le caractère utilisé pour séparer les valeurs dans le fichier CSV/TXT
 * Le champ *Délimiter les champs* permet de choisir si l'on souhaite récupérer les champs de type *Chaînes* (chaîne de caractères), *Tout* (tous les types de champs) ou *Aucune* (je ne veux pas
