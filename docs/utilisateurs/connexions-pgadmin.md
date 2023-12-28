@@ -5,8 +5,7 @@ Ce 1er compte de connexion vous sera fourni par votre service support; il se pr�
 
 ![acceuil](./img/acceuil.png)
 
-Ce compte doit être utilisé comme compte de connexion provisoire, le temps pour vous de déclarer votre propre adresse de messagerie.
-**Il est conseillé de supprimer ce compte provisoire à l'issue.**
+Ce compte doit être utilisé comme compte de connexion provisoire, le temps pour vous de déclarer votre propre adresse de messagerie qui vous servira alors comme compte de connexion à pgAdmin.**Il est conseillé de supprimer le compte provisoire à l'issue.**
 
 ## Créer un nouveau compte de connexion à pgAdmin
 Une fois connecté, outre le menu explicite **Modifier le mot de passe**, l’administrateur dispose d’un menu **Utilisateurs** permettant de déclarer de nouveaux rôles de connexion.
