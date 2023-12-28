@@ -12,6 +12,9 @@ s'effectue au redémarrage de l'application.
 ---
 
 ### Le noeud Stockage
+
+---
+
 pgAdmin Server vous propose un espace de stockage sur le serveur (cf xxxxx) , accessible en téléversement (dépôt de fichiers)
 ou en téléchargement (récupération de fichiers). 
 
@@ -24,18 +27,18 @@ Vous pouvez définir la taille maximale (en Mo) des fichiers à téléverser dan
 ### Le noeud Editeur de requête
 L'option **Grille de résultats** vous permet de spécifier vos préférences de formatage pour le tableau de résultats
 
-![preference-editeur-requete](./img/preferences-editeur-requete.png)
+![preference-editeur-requete](./img/preferences-editeur-requetes.png)
 
 Par défaut, la valeur est à *Données de la colonne*, ce qui signifie que les colonnes seront dimensionnées pour présenter toutes leurs valeurs. Si votre requête
 comprend un champ géométrique parmi les premieres colonnes du tableau résultant, il est probable que vous ne puissiez voir les autres colonnes sans 
 utiliser l'ascenseur horizontal.
 Exemple: 
 
-![preference-editeur-requete-exemple1](./img/preferences-editeur-requete-exemple1.png)
+![preference-editeur-requete-exemple1](./img/preferences-editeur-requetes-exemple1.png)
 
 En optant pour *Nom de la colonne*, vous verrez l'intégralité de vos colonnes dans le tableau résultant.
 
-![preference-editeur-requete-exemple2](./img/preferences-editeur-requete-exemple2.png)
+![preference-editeur-requete-exemple2](./img/preferences-editeur-requetes-exemple2.png)
 
 ---
 
