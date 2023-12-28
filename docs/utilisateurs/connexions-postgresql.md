@@ -21,7 +21,7 @@ l'explorateur d'objets de pgAdmin.
 Si *Connecter maintenant ?* est coché (c'est la valeur par défaut), pgAdmin tentera de se connecter à la base de données de votre serveur lorsque vous fermerez cette boîte de dialogue.
 
 Si *Partagé ?* est coché (ce n'est pas la valeur par défaut), la connexion sera partagée entre tous les utilisateurs de pgAdmin.
-Cette option n'est disponible que pour les comptes pgAdmin disposant du rôle *Administrator* [cf Créer un compte pgAdmin](https://github.com/MTES-MCT/accompagnement-postgresql/blob/main/docs/utilisateurs/connexions-pgadmin.md#cr%C3%A9er-un-nouveau-compte-de-connexion) . Les utilisateurs qui bénéficient de 
+Cette option n'est disponible que pour les comptes pgAdmin disposant du rôle *Administrator* ([cf Créer un compte pgAdmin])(https://github.com/MTES-MCT/accompagnement-postgresql/blob/main/docs/utilisateurs/connexions-pgadmin.md#cr%C3%A9er-un-nouveau-compte-de-connexion) . Les utilisateurs qui bénéficient de 
 cette déclaration partagée de connexion ne pourront pas supprimer cette connexion, ni la renommer ou changer les informations relatives au serveur, port ou base de connexion.
 
 ---
