@@ -3,7 +3,7 @@ Vous pouvez Personnaliserl'interface de pgAdmin en utilisant les options présen
 *Préférences* disponible dans le menu *Fichier*.
 Parmi toutes les options disponibles, quelques unes nous paraissent particulièrement intéressantes.
 
-### Le noeud Divers
+### Le menu Divers
 ---
 
 ![preference-divers](./img/preferences-divers.png)
@@ -12,7 +12,7 @@ Vous pouvez utiliser la liste déroulante pour sélectionner la langue d'afficha
 s'effectue au redémarrage de l'application.
 
 
-### Le noeud Stockage
+### Le menu Stockage
 ---
 
 pgAdmin Server vous propose un espace de stockage sur le serveur (cf xxxxx) , accessible en téléversement (dépôt de fichiers)
@@ -23,7 +23,7 @@ ou en téléchargement (récupération de fichiers).
 Vous pouvez définir la taille maximale (en Mo) des fichiers à téléverser dans cet espace.
 
 
-### Le noeud Editeur de requête
+### Le menu Editeur de requête
 ---
 L'option **Grille de résultats** vous permet de spécifier vos préférences de formatage pour le tableau de résultats
 
