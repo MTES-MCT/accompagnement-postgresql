@@ -31,5 +31,5 @@ Sur le serveur, en mode console, on installe l'outil : *apt install sqlite3*
 <br/>Pour quitter l'éditeur SQLite : *.quit* (ne pas oublier le .)
 
 #### Comment initialiser le mot de passe du 1er compte de connexion à pgAdmin ?
-Disposant désormais du compte de connexion par défaut, il faut initialiser son mot de passe. Pour ce faire, il faut, en mode console, passer la commande :
+Disposant désormais du compte de connexion par défaut, il faut initialiser son mot de passe. Pour ce faire, en mode console, passer la commande :
 <br/>*pgadmin-tool user password nom_du_compte_de_connexion Mot_de_passe*
