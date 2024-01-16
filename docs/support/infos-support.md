@@ -25,8 +25,9 @@ de lire les bases de type SQLite.
 Sur le serveur, en mode console, on installe l'outil : *apt install sqlite3*
 <br/>On peut désormais éditer la base de comptes de pgAdmin, toujours en mode console : *sqlite3 /var/lib/pgadmin/pgadmin4.db*
 <br/>Pour consulter la liste des comptes : *select * from user;* 
+<br/>
 <br/>![support_compte_user](./img/compte_user.png)
-<
+<br/>
 <br/>Pour quitter l'éditeur SQLite : *.quit* (ne pas oublier le .)
 
 #### Comment initialiser le mot de passe du 1er compte de connexion à pgAdmin ?
