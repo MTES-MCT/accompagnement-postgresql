@@ -17,8 +17,9 @@ de l'explorateur dès lors que vous avez sélectioné un objet PostgreSQL (bases
 pgAdmin vous propose deux assistants dans la rédaction de vos requêtes:
 1. **la saisie semi-automatique** avec la combinaison de touches Ctrl + Espace afin que l'éditeur vous propose des noms
 d'objets ou de commandes qui pourraient être les éléments suivants de votre requête
-<br/>![editeur_ctrl](./img/editeur_ctrl.png)    
-2. **l'insertion des noms d'objets** (tables, vues, colonnes) dans votre synthaxe SQL par glisser - déplacer depuis l'
+<br/>![editeur_ctrl](./img/editeur_ctrl.png)
+<br/>   
+3. **l'insertion des noms d'objets** (tables, vues, colonnes) dans votre synthaxe SQL par glisser - déplacer depuis l'
 explorateur d'objets vers l'éditeur de requêtes.
 <br/>![editeur_glisser](./img/editeur_glisser.png) 
 <br/>  
