@@ -27,16 +27,16 @@ comprend un champ géométrique parmi les premieres colonnes du tableau résulta
 utiliser l'ascenseur horizontal.
 Exemple: 
 
-![preference-editeur-requete-exemple1](./img/preferences-editeur-requete-editeur-requete-exemple1.png)
+![preference-editeur-requete-exemple1](./img/preferences-editeur-requetes-exemple1.png)
 
 En optant pour *Nom de la colonne*, vous verrez l'intégralité de vos colonnes dans le tableau résultant.
 
-![preference-editeur-requete-exemple2](./img/preferences-editeur-requete-editeur-requete-exemple2.png)
+![preference-editeur-requete-exemple2](./img/preferences-editeur-requetes-exemple2.png)
 
 
 L'option **Sortie CSV/TXT** vous permet de choisir le formattage du fichier d'export au format texte des résultats d'une requête
 
-![preference-editeur-requete-sortie](./img/preferences-editeur-requete-editeur-requete-sortie.png)
+![preference-editeur-requete-sortie](./img/preferences-editeur-requetes-sortie.png)
 
 * Le champ *Caractère délimiteur* précise le caractère utilisé pour séparer les valeurs dans le fichier CSV/TXT
 * Le champ *Délimiter les champs* permet de choisir si l'on souhaite récupérer les champs de type *Chaînes* (chaîne de caractères), *Tout* (tous les types de champs) ou *Aucune* (je ne veux pas
