@@ -19,7 +19,7 @@ pgAdmin vous propose deux assistants dans la rédaction de vos requêtes:
 d'objets ou de commandes qui pourraient être les éléments suivants de votre requête
 <br/>![editeur_ctrl](./img/editeur_ctrl.png) 
 <br/>    
-2. **l'insertion des noms d'objets** (tables, vues, colonnes) dans votre synthaxe SQL par glisser - déplacer depuis l'
+2. l'insertion des noms d'objets (tables, vues, colonnes) dans votre synthaxe SQL par glisser - déplacer depuis l'
 explorateur d'objets vers l'éditeur de requêtes.
 
 <br/>  
