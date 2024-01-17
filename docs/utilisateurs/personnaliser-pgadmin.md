@@ -20,7 +20,7 @@ Vous pouvez définir la taille maximale (en Mo) des fichiers à téléverser dan
 ### Le noeud Editeur de requête
 L'option **Grille de résultats** vous permet de spécifier vos préférences de formatage pour le tableau de résultats
 
-![preference-editeur-requete](./img/preferences-editeur-requetes-exemple2.png)
+![preference-editeur-requete](./img/preferences-editeur-requetes-resultat2.png)
 
 Par défaut, la valeur est à *Données de la colonne*, ce qui signifie que les colonnes seront dimensionnées pour présenter toutes leurs valeurs. Si votre requête comprend un champ géométrique parmi les premieres colonnes du tableau résultant, au vu de sa longueur, il est probable que vous ne puissiez voir les autres colonnes sans utiliser l'ascenseur horizontal.
 Exemple: 
