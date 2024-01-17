@@ -21,10 +21,10 @@ d'objets ou de commandes qui pourraient être les éléments suivants de votre r
 <br/>    
 2. **l'insertion des noms d'objets** (tables, vues, colonnes) dans votre synthaxe SQL par glisser - déplacer depuis l'
 explorateur d'objets vers l'éditeur de requêtes.
-<br/>![editeur_glisser](./img/editeur_glisser.png)
+
 <br/>  
 
-<br/> L'**éxécution de la requête** s'effectue avec le bouton ![icone_executer](./img/icone_executer.png) ou la touche F5   
+<br/> **L'éxécution de la requête** s'effectue avec le bouton ![icone_executer](./img/icone_executer.png) ou la touche F5   
 <br/>   
 
 ### Analyser vos requêtes
