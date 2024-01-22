@@ -41,4 +41,7 @@ et de l'enregistrer; le bouton ![editeur_stock_open](./img/editeur_stock_open.pn
 pour sélectionner le fichier contenant la requête afin de l'afficher dans l'éditeur.
 <br/>
 ![editeur-save](./img/editeur-save.png)
+<br/> Nous recommandons d'établir un plan de nommage de ce fichier de requête de manière à identifier, dans le nom du fichier, la base de données sur laquelle les requêtes s'appliquent.
 
+### Télécharger le résultat d'une requête
+Vous avez la possibilité de télécharger le résultat de votre reqûete dans un fichier au format CSV avec le bouton ![icone_result](./img/icone_result.png)
