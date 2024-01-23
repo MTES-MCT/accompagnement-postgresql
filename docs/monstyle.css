@@ -1,5 +1,22 @@
-<div id="section1">
-    <h2>Section 1</h2>
-    <p>Contenu de la section 1...</p>
-    <a href="chemin/vers/votre/fichier.md">Lien vers votre fichier Markdown</a>
-</div>
+div {
+  border: 1px solid black;
+}
+
+#mainContainer {
+  display: flex;
+  justify-content: space-between;
+  border: none;
+}
+
+.bloc-Gauche {
+  width: 15%;
+}
+
+.bloc-Fixe {
+  width: 70%;
+  margin: 0 10px;
+}
+
+.bloc-Bandeau {
+  margin: 0 0 15px;
+}
