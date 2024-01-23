@@ -1,0 +1,98 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+   <title>Exemple de design fluide avec menu fixe par javascript</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <STYLE type=text/css>
+      html { overflow:hidden; }
+      body { overflow:hidden;
+            font-family: trebuchet ms,arial,tahoma,verdana,sans-serif;}
+      code {font-size:1em;}
+      #bloc-fixe { 
+         position:fixed;
+         border:solid 1px;
+         background-color:#F7F3EA;
+         width:118px;
+         top:10px;
+         left:10px;
+         overflow:auto;
+         bottom:10px;
+         font-size:90%;
+      }
+      #bloc-variable { 
+         position:fixed;
+         border:solid 1px;
+         background-color:#66CC99;
+         top:10px;
+         left:138px;
+         bottom:10px;
+         right:0px;
+         padding:10px;
+         overflow:auto;
+      }
+   </STYLE>
+   <!--[if lt IE 7]>
+      <STYLE type=text/css>
+         #bloc-fixe, #bloc-variable {
+            position:absolute;
+            height: expression((document.documentElement.clientHeight
+                  ? document.documentElement.clientHeight
+                  : document.body.clientHeight) - (10+10) + "px");
+         }
+         #bloc-variable { 
+            width: expression(( document.documentElement.clientWidth
+                  ? document.documentElement.clientWidth
+                  : document.body.clientWidth) - (138+1) + "px");
+         }
+      </STYLE>
+      <noscript>
+         <STYLE type=text/css>
+            #bloc-fixe, #bloc-variable {height:100%;top:0px}
+            #bloc-variable { width:650px}
+            html { overflow:auto; }
+            body { overflow:auto; }
+         </STYLE>
+      </noscript>
+   <![endif]-->
+</head>
+<body>
+   <div id="bloc-fixe">
+      <p><a href="index.php"><img src="images/logo-css.jpg"
+               alt="css faciles" width="118" height="80"
+               vspace="20" border="0"></a></p>
+      <p align="center">Page d'exemple extraite du site<br>
+        <a href="index.php">css-facile</a></p>
+   </div>
+   <div id="bloc-variable">
+      <h1>Menu fixe, design fluide, avec Javascript </h1>
+      <p>Cette mise en page illustre la fa&ccedil;on d'obtenir un
+         menu fixe &agrave; gauche, avec un bloc de largeur variable
+         dans la partie droite et ce, quel que soit le navigateur
+         affichant la page.</p>
+      <p>Quand la largeur d'un bloc s'adapte de cette fa&ccedil;on
+         &agrave; la largeur de la fen&ecirc;tre du navigateur,
+         on dit que l'on a affaire &agrave; un &quot;design fluide&quot;</p>
+      <p>Cette page a &eacute;t&eacute; test&eacute;e et s'affiche
+         correctement sur :</p>
+      <ul>
+        <li>Internet Explorer 5.5 PC</li>
+        <li>Internet Explorer 6</li>
+        <li>Intenet Explorer 7</li>
+        <li>Mozilla 1.7.8</li>
+        <li>Firefox 2.0.0.4</li>
+        <li>Opera 9.21</li>
+      </ul>
+      <p>Pour les internautes utilisant Explorer 5.5 et 6 et ayant
+         d&eacute;sactiv&eacute; le javascript, le design perd son
+         c&ocirc;t&eacute; fluide, mais le contenu reste lisible
+         gr&acirc;ce &agrave; un style d&eacute;di&eacute; &agrave;
+         ce cas de figure.
+      </p>
+      <pre><code>Code de la page</code><pre>
+   </div>
+   <script type="text/javascript">
+       document.getElementById("bloc-variable").focus()
+   </script>
+</body>
+</html>
